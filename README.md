@@ -1,6 +1,6 @@
 Hello, World!
 
-I'm new on Github, so be careful with my.
+I'm new to Github, so bear with me.
 - 🔭 I’m currently working on a Board Game 
 - 🌱 I’m currently learning C langage
 - 👯 I’m looking to collaborate on friends
