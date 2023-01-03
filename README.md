@@ -1,16 +1,12 @@
-### Hi there 👋
+Hello, World!
 
-<!--
-**Azrod64/Azrod64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm new on Github, so be careful with my.
+- 🔭 I’m currently working on a Board Game 
+- 🌱 I’m currently learning C langage
+- 👯 I’m looking to collaborate on friends
+- 🤔 I’m looking for help with anyone
+- 💬 Ask me about anything
+- 📫 How to reach me: Try if you can
+- 😄 Pronouns: IDK
+- ⚡ Fun fact: I hate apple ;)
+    
