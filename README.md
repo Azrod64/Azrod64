@@ -7,5 +7,5 @@ I'm new to Github, so bear with me.
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about anything
 - 📫 How to reach me: Try if you can
-- ⚡ Fun fact: I hate apple ;)
+- ⚡ Fun fact: I hate apple and i have one ;)
     
